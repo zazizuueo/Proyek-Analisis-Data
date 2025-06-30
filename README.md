@@ -1,5 +1,5 @@
 # Proyek-Analisis-Data
-- git clone https://github.com/bikinurulafida/Analysis-E-commerce-Datase.git
+- git clone https://github.com/zazizuueo/Proyek-Analisis-Data
 - pip install -r requirements.txt
 - pipenv install
 - pipenv shell
